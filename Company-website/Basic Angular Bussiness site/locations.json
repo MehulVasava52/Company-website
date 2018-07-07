@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Lynn location",
+    "street": "333 walnut st.",
+    "city" : " Lynn",
+    "state" : "MA",
+    "zip": "01902" ,
+    "phone" : "781-5655-55555" 
+  },
+  {
+    "id": 2,
+    "name": "Mumbai location",
+    "street": "444 khaudhry st.",
+    "city" : " Mumbai",
+    "state" : "MA",
+    "zip": "015402" ,
+    "phone" : "554656223321" 
+  },
+  {
+    "id": 3,
+    "name": "Gujarat location",
+    "street": "V V Nagar",
+    "city" : " Anand",
+    "state" : "Gujarat",
+    "zip": "388001" ,
+    "phone" : "95989562332" 
+  }
+]

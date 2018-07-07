@@ -1,0 +1,28 @@
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-md-4">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Blue_computer_icon.svg/2000px-Blue_computer_icon.svg.png"
+        alt="computere image">
+    </div>
+    <div class="col-md-8">
+      <h1>Computer Solutions</h1>
+      <p class="lead">
+        Computer Solutions East services the Tri-State area of New York, Connecticut, and New Jersey, as the leading information
+        technology (IT) company that offers innovative computer services and products to enable small and medium size enterprises
+        to succeed in today's digital-age. Our clients rely on our computer premium services, knowledgeable/certified consultants
+        to lead them across the Information Technology highway so they can compete head to head against their competitors
+        and larger organizations.
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- Example row of columns -->
+<div class="row">
+  <div ng-repeat="service in services">
+    <div class="col-lg-12">
+      <h2>{{service.name}}</h2>
+      <p> {{service.description}}</p>
+    </div>
+  </div>
+</div>
